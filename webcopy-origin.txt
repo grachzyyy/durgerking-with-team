@@ -1,0 +1,120 @@
+Uri: https://tg.dev/js/jquery.min.js
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tg.dev/js/telegram-web-app.js?45
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\js\telegram-web-app.js
+Content Type: application/javascript
+
+Uri: https://tg.dev/js/tgsticker.js?31
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\js\tgsticker.js
+Content Type: application/javascript
+
+Uri: https://webappcontent.telegram.org/cafe
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\cafe.html
+Content Type: text/html
+
+Uri: https://webappcontent.telegram.org/css/cafe.css?20
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\css\cafe.css
+Content Type: text/css
+
+Uri: https://webappcontent.telegram.org/img/cafe/Burger.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Burger.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Burger_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Burger_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Cake.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Cake.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Cake_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Cake_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Coke.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Coke.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Coke_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Coke_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Cookie.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Cookie.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Cookie_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Cookie_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Donut.tgs?1
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Donut.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Donut_148.png?1
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Donut_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Flan.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Flan.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Flan_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Flan_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Fries.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Fries.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Fries_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Fries_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Hotdog.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Hotdog.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Hotdog_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Hotdog_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Icecream.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Icecream.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Icecream_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Icecream_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Pizza.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Pizza.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Pizza_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Pizza_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Popcorn.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Popcorn.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Popcorn_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Popcorn_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/img/cafe/Tako.tgs
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Tako.tgs
+Content Type: application/octet-stream
+
+Uri: https://webappcontent.telegram.org/img/cafe/Tako_148.png
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\img\cafe\Tako_148.png
+Content Type: image/png
+
+Uri: https://webappcontent.telegram.org/js/cafe.js?29
+File Name: C:\Users\ZXC\Documents\web\durger copy\webappcontent.telegram.org\js\cafe.js
+Content Type: application/javascript
+
